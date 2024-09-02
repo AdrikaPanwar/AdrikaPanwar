@@ -58,10 +58,11 @@ I'm a passionate **Backend Developer** who loves creating efficient and scalable
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" style="margin: 5px;"/>
 </p>
 
+
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdrikaPanwar&hide_border=false&include_all_commits=true&count_private=true&title_color=ff69b4&icon_color=ff69b4&text_color=000000&bg_color=ffffff" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrikaPanwar&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=ff69b4&icon_color=ff69b4&text_color=000000&bg_color=ffffff" alt="Top Languages" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdrikaPanwar&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&title_color=ff69b4&icon_color=ff69b4&text_color=000000&bg_color=ffffff" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrikaPanwar&layout=compact&hide_border=false&title_color=ff69b4&icon_color=ff69b4&text_color=000000&bg_color=ffffff" alt="Top Languages" height="180em"/>
 </p>
 
 <!---
