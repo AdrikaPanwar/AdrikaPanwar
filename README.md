@@ -16,7 +16,7 @@
 ## 💫 About Me
 I'm a passionate **Backend Developer** who loves creating efficient and scalable server-side solutions. I enjoy diving into new technologies and continuously improving my skill set. Here's a bit more about me:
 
-- 🔭 **Current Project**: I'm currently working on the messanger chatbot for the facebook to explore the Meta Developers
+- 🔭 **Current Project**: I'm currently working on developing an AI-powered finance assistant to streamline financial tasks and provide smart, data-driven insights.
 - 👯 **Looking for Collaborations**: Open to collaborating on **open-source projects** in **Data Science** and **Node.js** to create meaningful and impactful software.
 - 🌱 **Currently Learning**: I'm learning **Japanese** to enhance my cultural understanding and explore tech communities globally.
 - 💬 **Ask Me Anything**: I'm always eager to connect and share knowledge, whether it's about coding, tech trends, or just having a friendly conversation.
