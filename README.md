@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hello! I'm Adrika Panwar</h1>
-<h3 align="center">Backend Developer | Dark Mode Addicted | Coding is Adventure for me</h3>
 
 <p align="center">
   <a href="https://discord.gg/adrikapanwar" target="_blank">
@@ -8,7 +7,7 @@
   <a href="https://linkedin.com/in/adrika-panwar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 50%;"/>
   </a>
-  <a href="https://x.com/@AdrikaPanwar" target="_blank">
+  <a href="[https://x.com/@AdrikaPanwar](https://x.com/xofapp)" target="_blank">
     <img src="https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white" alt="X" style="border-radius: 50%;"/>
   </a>
 </p>
