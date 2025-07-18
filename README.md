@@ -1,16 +1,10 @@
 <h1 align="center">👋 Hello! I'm Adrika Panwar</h1>
 
 <p align="center">
-  <a href="https://discord.gg/adrikapanwar" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" style="border-radius: 50%;"/>
-  </a>
   <a href="https://linkedin.com/in/adrika-panwar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 50%;"/>
   </a>
-  <a href="[https://x.com/@AdrikaPanwar](https://x.com/xofapp)" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white" alt="X" style="border-radius: 50%;"/>
-  </a>
-</p>
+
 
 ## 💫 About Me
 I'm a passionate **Backend Developer** who loves creating efficient and scalable server-side solutions. I enjoy diving into new technologies and continuously improving my skill set. Here's a bit more about me:
