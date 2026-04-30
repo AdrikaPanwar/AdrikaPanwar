@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hello! I'm Adrika Panwar</h1>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://linkedin.com/in/adrika-panwar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 50%;"/>
-  </a>
+  </a> -->
 
 
 ## 💫 About Me
