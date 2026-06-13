@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Adrika Panwar</h1>
+<h1 align="center">👋 Hello! I'm ..</h1>
 
 <!-- <p align="center">
   <a href="https://linkedin.com/in/adrika-panwar/" target="_blank">
